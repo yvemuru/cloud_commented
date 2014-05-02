@@ -1,0 +1,81 @@
+2014-03-28 14:36:04,703 DEBUG S3 Server: LIST Server
+2014-03-28 14:36:04,741 DEBUG S3 Server: CREATE Bucket test
+2014-03-28 14:36:04,752 DEBUG S3 Server: LIST Server
+2014-03-28 14:36:04,758 DEBUG S3 Server: PUT Object test/helloworld
+2014-03-28 14:36:04,770 DEBUG S3 Server: LIST Bucket test
+2014-03-28 14:36:04,783 DEBUG S3 Server: GET Object test/helloworld
+2014-03-28 14:36:04,796 DEBUG S3 Server: DELETE Object test/helloworld
+2014-03-28 14:36:04,799 DEBUG S3 Server: LIST Bucket test
+2014-03-28 14:36:04,807 DEBUG S3 Server: DELETE Bucket test
+2014-03-28 14:36:04,810 DEBUG S3 Server: LIST Server
+2014-03-28 15:08:44,634 DEBUG S3 Server: LIST Server
+2014-03-28 15:08:44,653 DEBUG S3 Server: CREATE Bucket test
+2014-03-28 15:08:44,691 DEBUG S3 Server: LIST Server
+2014-03-28 15:08:44,727 DEBUG S3 Server: PUT Object test/helloworld
+2014-03-28 15:08:44,743 DEBUG S3 Server: LIST Bucket test
+2014-03-28 15:08:44,750 DEBUG S3 Server: GET Object test/helloworld
+2014-03-28 15:08:44,764 DEBUG S3 Server: DELETE Object test/helloworld
+2014-03-28 15:08:44,769 DEBUG S3 Server: LIST Bucket test
+2014-03-28 15:08:44,780 DEBUG S3 Server: DELETE Bucket test
+2014-03-28 15:08:44,789 DEBUG S3 Server: LIST Server
+2014-03-28 15:14:49,280 DEBUG S3 Server: LIST Server
+2014-03-28 15:14:49,288 DEBUG S3 Server: CREATE Bucket test
+2014-03-28 15:14:49,328 DEBUG S3 Server: LIST Server
+2014-03-28 15:14:49,348 DEBUG S3 Server: PUT Object test/helloworld
+2014-03-28 15:14:49,352 DEBUG S3 Server: LIST Bucket test
+2014-03-28 15:14:49,366 DEBUG S3 Server: GET Object test/helloworld
+2014-03-28 15:14:49,373 DEBUG S3 Server: DELETE Object test/helloworld
+2014-03-28 15:14:49,379 DEBUG S3 Server: LIST Bucket test
+2014-03-28 15:14:49,395 DEBUG S3 Server: DELETE Bucket test
+2014-03-28 15:14:49,398 DEBUG S3 Server: LIST Server
+2014-03-28 15:24:03,874 DEBUG S3 Server: LIST Server
+2014-03-28 15:24:03,884 DEBUG S3 Server: CREATE Bucket test
+2014-03-28 15:24:03,925 DEBUG S3 Server: LIST Server
+2014-03-28 15:24:03,934 DEBUG S3 Server: PUT Object test/helloworld
+2014-03-28 15:24:03,943 DEBUG S3 Server: LIST Bucket test
+2014-03-28 15:24:03,955 DEBUG S3 Server: GET Object test/helloworld
+2014-03-28 15:24:03,971 DEBUG S3 Server: DELETE Object test/helloworld
+2014-03-28 15:24:03,975 DEBUG S3 Server: LIST Bucket test
+2014-03-28 15:24:03,984 DEBUG S3 Server: DELETE Bucket test
+2014-03-28 15:24:03,994 DEBUG S3 Server: LIST Server
+2014-03-29 14:40:26,033 DEBUG S3 Server: LIST Server
+2014-03-29 14:40:26,075 DEBUG S3 Server: CREATE Bucket test
+2014-03-29 14:40:26,097 DEBUG S3 Server: LIST Server
+2014-03-29 14:40:26,109 DEBUG S3 Server: PUT Object test/helloworld
+2014-03-29 14:40:26,115 DEBUG S3 Server: LIST Bucket test
+2014-03-29 14:40:26,131 DEBUG S3 Server: GET Object test/helloworld
+2014-03-29 14:40:26,143 DEBUG S3 Server: DELETE Object test/helloworld
+2014-03-29 14:40:26,147 DEBUG S3 Server: LIST Bucket test
+2014-03-29 14:40:26,150 DEBUG S3 Server: DELETE Bucket test
+2014-03-29 14:40:26,168 DEBUG S3 Server: LIST Server
+2014-03-29 15:11:18,313 DEBUG S3 Server: LIST Server
+2014-03-29 15:11:18,363 DEBUG S3 Server: CREATE Bucket test
+2014-03-29 15:11:18,380 DEBUG S3 Server: LIST Server
+2014-03-29 15:11:18,407 DEBUG S3 Server: PUT Object test/helloworld
+2014-03-29 15:11:18,423 DEBUG S3 Server: LIST Bucket test
+2014-03-29 15:11:18,442 DEBUG S3 Server: GET Object test/helloworld
+2014-03-29 15:11:18,453 DEBUG S3 Server: DELETE Object test/helloworld
+2014-03-29 15:11:18,462 DEBUG S3 Server: LIST Bucket test
+2014-03-29 15:11:18,477 DEBUG S3 Server: DELETE Bucket test
+2014-03-29 15:11:18,481 DEBUG S3 Server: LIST Server
+2014-03-31 03:04:20,726 DEBUG S3 Server: LIST Server
+2014-03-31 03:04:20,766 DEBUG S3 Server: CREATE Bucket test
+2014-03-31 03:04:20,783 DEBUG S3 Server: LIST Server
+2014-03-31 03:04:20,790 DEBUG S3 Server: PUT Object test/helloworld
+2014-03-31 03:04:20,794 DEBUG S3 Server: LIST Bucket test
+2014-03-31 03:04:20,811 DEBUG S3 Server: GET Object test/helloworld
+2014-03-31 03:04:20,815 DEBUG S3 Server: DELETE Object test/helloworld
+2014-03-31 03:04:20,817 DEBUG S3 Server: LIST Bucket test
+2014-03-31 03:04:20,824 DEBUG S3 Server: DELETE Bucket test
+2014-03-31 03:04:20,843 DEBUG S3 Server: LIST Server
+2014-03-31 03:06:29,701 DEBUG S3 Server: LIST Server
+2014-03-31 03:06:29,706 DEBUG S3 Server: CREATE Bucket test
+2014-03-31 03:06:29,747 DEBUG S3 Server: LIST Server
+2014-03-31 03:06:29,751 DEBUG S3 Server: PUT Object test/helloworld
+2014-03-31 03:06:29,773 DEBUG S3 Server: PUT Object test/jaffapailame
+2014-03-31 03:06:29,776 DEBUG S3 Server: LIST Bucket test
+2014-03-31 03:06:29,784 DEBUG S3 Server: GET Object test/helloworld
+2014-03-31 03:06:29,794 DEBUG S3 Server: DELETE Object test/helloworld
+2014-03-31 03:06:29,797 DEBUG S3 Server: LIST Bucket test
+2014-03-31 03:06:29,814 DEBUG S3 Server: DELETE Bucket test
+2014-03-31 03:06:29,817 DEBUG S3 Server: LIST Server
